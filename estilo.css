@@ -1,0 +1,30 @@
+div{
+    background-color: wheat;
+    width: 500px;
+    height: 500px;
+    margin: auto;
+    text-align: center;
+    padding: 50px;
+    border-radius: 30px;
+    
+}
+
+input{
+    border: none;
+    width: 50%;
+    height: 30px;
+    margin-bottom: 4px;
+    padding-left: 3px;
+    border-radius: 30px;
+}
+img{
+    padding: 50px;
+    margin-bottom: 4px;
+    height: 50%;
+    width: 50%;
+
+
+
+
+
+}
